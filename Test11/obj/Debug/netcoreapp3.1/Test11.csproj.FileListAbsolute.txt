@@ -1,0 +1,15 @@
+C:\Users\nxanywhere\source\repos\Test11\Test11\bin\Debug\netcoreapp3.1\ChatSpammer.exe
+C:\Users\nxanywhere\source\repos\Test11\Test11\bin\Debug\netcoreapp3.1\ChatSpammer.deps.json
+C:\Users\nxanywhere\source\repos\Test11\Test11\bin\Debug\netcoreapp3.1\ChatSpammer.runtimeconfig.json
+C:\Users\nxanywhere\source\repos\Test11\Test11\bin\Debug\netcoreapp3.1\ChatSpammer.runtimeconfig.dev.json
+C:\Users\nxanywhere\source\repos\Test11\Test11\bin\Debug\netcoreapp3.1\ChatSpammer.dll
+C:\Users\nxanywhere\source\repos\Test11\Test11\bin\Debug\netcoreapp3.1\ChatSpammer.pdb
+C:\Users\nxanywhere\source\repos\Test11\Test11\obj\Debug\netcoreapp3.1\Test11.Form1.resources
+C:\Users\nxanywhere\source\repos\Test11\Test11\obj\Debug\netcoreapp3.1\ChatSpammer.Properties.Resources.resources
+C:\Users\nxanywhere\source\repos\Test11\Test11\obj\Debug\netcoreapp3.1\Test11.csproj.GenerateResource.cache
+C:\Users\nxanywhere\source\repos\Test11\Test11\obj\Debug\netcoreapp3.1\Test11.AssemblyInfoInputs.cache
+C:\Users\nxanywhere\source\repos\Test11\Test11\obj\Debug\netcoreapp3.1\Test11.AssemblyInfo.cs
+C:\Users\nxanywhere\source\repos\Test11\Test11\obj\Debug\netcoreapp3.1\Test11.csproj.CoreCompileInputs.cache
+C:\Users\nxanywhere\source\repos\Test11\Test11\obj\Debug\netcoreapp3.1\ChatSpammer.dll
+C:\Users\nxanywhere\source\repos\Test11\Test11\obj\Debug\netcoreapp3.1\ChatSpammer.pdb
+C:\Users\nxanywhere\source\repos\Test11\Test11\obj\Debug\netcoreapp3.1\Test11.genruntimeconfig.cache
